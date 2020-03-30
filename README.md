@@ -1,2 +1,2 @@
-# Physics-Engine-C22
-Physical properties of objects like Bounce off and more
+# staticSquare
+A static square made using Matter.js physics engine
